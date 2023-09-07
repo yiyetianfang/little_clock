@@ -1,0 +1,12 @@
+idf_component_register(SRCS "display_app.c" "main.c"  
+                            "get_weather.c"
+                            "bg_pic.c"    
+                        "../components/lvgl/examples/get_started/lv_example_get_started_1.c"
+                        "../components/lvgl/examples/widgets/btnmatrix/lv_example_btnmatrix_2.c"
+                        "../components/lvgl/examples/assets/img_star.c"
+                        "../components/lvgl/examples/porting/lv_port_indev_template.c"
+                        "../components/lvgl/examples/widgets/calendar/lv_example_calendar_1.c"
+                        "../components/lvgl/examples/widgets/img/lv_example_img_1.c"
+                        "../components/lvgl/examples/assets/img_cogwheel_argb.c"
+                       INCLUDE_DIRS "."
+                       )

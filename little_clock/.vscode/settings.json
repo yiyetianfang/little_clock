@@ -1,0 +1,19 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32",
+  "idf.flashType": "UART",
+  "idf.portWin": "COM3",
+  "files.associations": {
+    "esp_adc_cal.h": "c",
+    "adc_key.h": "c",
+    "lv_led.h": "c",
+    "lv_examples.h": "c",
+    "ssd1306.h": "c",
+    "nvs_flash.h": "c",
+    "getweather.h": "c",
+    "esp_system.h": "c",
+    "*.ipp": "c",
+    "get_weather.h": "c",
+    "main.h": "c"
+  }
+}
